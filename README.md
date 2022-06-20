@@ -13,3 +13,4 @@ Design a cloud architecture diagram to meet the company’s requirements to migr
     ■ Encryption to enforce security at-rest and in-transit;</br>
     ■ High availability and redundacy.
     
+<img src="https://github.com/gmedeirosnet/cocus/blob/main/COCUS%20Challenger%20-%20AWS%20Diagram%20-%20Gutemberg%20Medeiros.png">
